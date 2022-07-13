@@ -233,17 +233,21 @@ section{
     color: #fce138;
 }
 
-.contact p{
-    color: white;
-}
-
 .contact h3{
     color: #fce138;
-    font-size: 30px;
+    font-size: 32px;
 }
 
-.contact address{
+.contact address, .contact p{
     color: white;
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.contact a{
+    color: #fce138;
 }
 
 .contact-info iframe{
