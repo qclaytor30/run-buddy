@@ -302,9 +302,6 @@ section{
     height: 400px;
 }
 
-.contact-info div{   
-}
-
 .contact-form input, .contact-form textarea{
     border: 1px solid #024e76;
     display: block;
